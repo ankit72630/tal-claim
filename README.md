@@ -39,7 +39,7 @@ npm start
 - Claimant Information  
   ![Claimant Details](docs/claimant.png)  
 - Documents  
-  ![Documents](docs/docs.png)  
+  ![Documents](docs/doc.png)  
 - Claim Decision  
   ![Decision](docs/decision.png)  
 - Email Draft  
